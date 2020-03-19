@@ -5,7 +5,7 @@ Script Written By r00tk1ll3r
 DISCLAIMER:
 ----------
 ALL OF THESE STATICS FROM https://www.corona.help 
-AND THANKS TO Alex Dumitru WHO BUILT ABOVE MENTIONED WEB SITE
+AND THANKS TO Alex Dumitru WHO BUILT PREVEOUSLY MENTIONED WEB SITE
 
 Get real live statics about COVID-19 Through Simple Python Script
 
